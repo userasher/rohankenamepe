@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.afd32457.css",
+    "main.js": "/static/js/main.6f542f0c.js",
+    "static/js/496.e8eee70e.chunk.js": "/static/js/496.e8eee70e.chunk.js",
+    "static/media/localtrain.jpg": "/static/media/localtrain.082cad7d3cee80921ae0.jpg",
+    "static/media/vjti logo.png": "/static/media/vjti logo.ded3f515e5e16ef085fe.png",
+    "index.html": "/index.html",
+    "main.afd32457.css.map": "/static/css/main.afd32457.css.map",
+    "main.6f542f0c.js.map": "/static/js/main.6f542f0c.js.map",
+    "496.e8eee70e.chunk.js.map": "/static/js/496.e8eee70e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afd32457.css",
+    "static/js/main.6f542f0c.js"
+  ]
+}
