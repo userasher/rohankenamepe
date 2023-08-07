@@ -218,7 +218,7 @@ router.post("/sendpasswordlink", async (req, res) => {
         to: email,
         subject: "VJTI Railway Concession / Password Reset",
         text: `This Link Valid For 2 MINUTES ${req.protocol}://${req.get(
-          "host--"
+          "host"
         )}/forgotpassword/${userfind.id}/${setusertoken.verifytoken}`,
       };
 
